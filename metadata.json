@@ -1,0 +1,7 @@
+{
+  "name": "Angle Real Estate",
+  "description": "Angle Real Estate - Premium real estate agency for buying, selling, and renting luxury residential and commercial properties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
